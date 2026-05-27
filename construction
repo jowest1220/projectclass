@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<style>
+.button {
+  background-color: #04AA6D;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+<title>Construction</title>
+</style>
+</head>
+
+<body>
+
+<body style="background-color:#FFEA00;">
+
+<div align="center">
+
+<h1 style="text-align="center"; font-size="90px";>We are sorry we are under construction!</h2>
+<a href="file:///C:/Users/nerdy/OneDrive/Desktop/HTMLclass/project.html">
+  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+    GO BACK HOME
+  </button>
+  </a>
+ </h1>
+  <br>
+ </div>
+  
+<div align="center">
+<img src="https://cdn.sanity.io/images/agnoplrn/production/f7854fedd1a40f3f9b94c45621ebaa5acb53e537-6720x4480.jpg?auto=format&fit=max&q=75&sharpen=50&w=1620" alt="excavator"
+style="width: 500px; height: auto;>"
+</div>
+<br>
+<h1 style="text-align="center"; font-size="90px";>Here is a video for your trouble:</h1>
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@lenjpearce/video/7353104890035588369" data-video-id="7353104890035588369" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@lenjpearce" href="https://www.tiktok.com/@lenjpearce?refer=embed">@lenjpearce</a> Replying to @Rachel V. Ray  Excavator But Techno 😮‍💨😎 @Blippi  <a title="parentsoftiktok" target="_blank" href="https://www.tiktok.com/tag/parentsoftiktok?refer=embed">#parentsoftiktok</a> <a title="remix" target="_blank" href="https://www.tiktok.com/tag/remix?refer=embed">#remix</a> <a title="excavator" target="_blank" href="https://www.tiktok.com/tag/excavator?refer=embed">#excavator</a> <a title="lennypearce" target="_blank" href="https://www.tiktok.com/tag/lennypearce?refer=embed">#lennypearce</a> <a title="blippi" target="_blank" href="https://www.tiktok.com/tag/blippi?refer=embed">#blippi</a> <a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp?refer=embed">#fyp</a> <a target="_blank" title="♬ Excavator Blippi Lenny Pearce - Lenny Pearce" href="https://www.tiktok.com/music/Excavator-Blippi-Lenny-Pearce-7353104964320824065?refer=embed">♬ Excavator Blippi Lenny Pearce - Lenny Pearce</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+<!--- after a goose chase of trying to understand why I couldn't properly embed a youtube video, this was my next solution. Hope you find it amusing ---!>
+</style>
+</head>
+</body>
+</html>
