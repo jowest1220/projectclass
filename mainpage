@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+
+<html>
+
+
+<title>West Paranormal</title>
+<body>
+<body style = "background-color:#2F4F4F;">
+ 
+<h1 style="text-align:center; color: #F0F8FF;  font-size:100px;">West Paranormal Adventures</h1>
+<!-- Code snippet for interactive feature sourced from https://www.w3schools.com/Html/-->
+<br>
+<div align="center">
+<a href="C:\Users\nerdy\OneDrive\Desktop\HTMLclass\helen.html">
+  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+    Helen's Bridge
+  </button>
+</a>
+<a href="C:\Users\nerdy\OneDrive\Desktop\HTMLclass\construction.html">
+  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+    Old City Jail
+  </button>
+  </a>
+<a href="C:\Users\nerdy\OneDrive\Desktop\HTMLclass\construction.html">
+  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+    Kuhn House
+  </button>
+  </a>
+<a href="C:\Users\nerdy\OneDrive\Desktop\HTMLclass\contact.html">
+  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+    Contact Us
+  </button>
+  </a>
+  </div>
+<br>
+<br>
+<br>
+<br>
+
+<div align="center">
+<h2 style= color:#F0F8FF;"><strong>Welcome to West Paranormal Adventures! An exciting look into the adventures of a believer and a skeptic!<strong></h2>
+
+
+<p style= color:#F0F8FF;">Jordan and Andrew West have been paranormal hunting since they met in 2014.  This is their adventures and the evidence that they found.</p>
+<p style= color:#F0F8FF;">Please use the buttons above to locate information about each location!  Some sites are still under construction, so be careful of large equipment!</p>
+<img src="C:\Users\nerdy\OneDrive\Desktop\HTMLclass\cityjail.png" 
+     alt="Front of the Old City Jail in Charleston" 
+     style="width: 600px; height: auto;">
+	 <!-- Original source snippet for the sizing sourced from https://www.w3schools.com/tags/att_img_width.asp --> 
+</div>
+	 
+	 
+
+ 
+<p>&copy; 2026 West Paranormal Adventures. All rights reserved.</p>
+<!-- Original source snippet sourced from www.google.com --> 
+
+
+</body>
+</html>
