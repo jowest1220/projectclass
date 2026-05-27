@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<style>
+.button {
+  background-color: #04AA6D;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+<title>Helen's Bridge</title>
+</style>
+</head>
+
+<body>
+
+
+<body style = "background-color:#8B0000;">
+ 
+<h1 style="text-align:center; color: #F0F8FF; font-size: 90px; font-family: brush script MT ">Helen's Bridge</h1>
+<!-- Code snippet for interactive feature sourced from https://www.w3schools.com/Html/-->
+<br>
+<br>
+<div align="center">
+
+<a href="file:///C:/Users/nerdy/OneDrive/Desktop/HTMLclass/project.html">
+  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+    Home
+  </button>
+</a>
+<a href="C:\Users\nerdy\OneDrive\Desktop\HTMLclass\construction.html">
+  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+    Old City Jail
+  </button>
+  </a>
+<a href="C:\Users\nerdy\OneDrive\Desktop\HTMLclass\construction.html">
+  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+    Kuhn House
+  </button>
+  </a>
+<a href="file:///C:/Users/nerdy/OneDrive/Desktop/HTMLclass/project.html">
+  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+    Contact Us
+  </button>
+  </a>
+  <!-- Slowly built these buttons via W3 and asking Google how I can take a functional button and add style to it-->
+<br>
+<br>
+<br>
+<br>
+
+<div class="image-container">
+  <img src="https://www.ashevillenc.gov/wp-content/uploads/2019/10/helens-bridge-1-768x576.jpg" alt="Helen's Bridge."
+  style="width: 500px; height: auto;">
+  <img src="C:\Users\nerdy\OneDrive\Desktop\HTMLclass\Asheville Map.png" alt="Map of area where Helen's bridge is located."
+style="width: 500px; height: auto;">
+</div>
+<!-- Original source snippet for the sizing sourced from https://www.ashevillenc.gov/news/asheville-ghost-story-helens-bridge/ --> 
+<!-- Original source snippet for the sizing sourced from google maps, snippet and saved.--> 
+<br>
+<br>
+
+<div align="center">
+	<p style="text-align:left; color:#F0F8FF; font-family: Courier New">Helen's Bridge is a bridge that was built in 1909 on Asheville's Beaucatcher Mountain.  The speculation is that a beautiful woman who was the servant of the house owner became pregnant.  She couldn't accept the pregnancy or hidden love affair so she committed suicide on that very bridge.</p>
+	<p style="text-align:left; color:#F0F8FF;font-family: Courier New">Another possibility was that the woman Helen lost her daughter in a fire at a nearby place and now haunts the location.</p>
+	<p style="text-align:left; color:#F0F8FF;font-family: Courier New">There have been many sightings of Helen, hearing her scream and issues with mechanical devices such as car radios, emf detectors and flashlights.<p>
+	<br>
+	<br>
+	<h2 style="text-align:left; color:#F0F8FF;font-family: Courier New"> Our Findings:</h2>
+	<p style="text-align:left; color:#F0F8FF;font-family: Courier New">While hunting in this location, I happened to be 30 weeks pregnant with our son. Andrew and I had gotten some weak directions of go up Beaucatcher's Mountain and you'll find it.  I was feeling pulled by every turn and fork in the road and became overwhelmed by a strong feeling.  I told Andrew, "We are here."  We both gazed up at the large, mossy facade of a bridge.  I noticed what looked to be someone walking around us, but it was like a shadow.<p>
+	<p style="text-align:left; color:#F0F8FF;font-family: Courier New">We pulled out our EMF and began taking readings.  The readings were in the red and screaming.  400-500mW/m^2 and holding steady. I felt we had to leave, something wasn't right.  We left the area, car zig zagging down the mountain.  I had looked into the backseat and saw another shadow figure, I told Andrew someone was here with us.  The EMF detector was still screaming the entire time, I was incredibly scared.  The figure didn't move or make a sound. Finally, as we turned the last turn off the mountain, the figure disappeared! I said "Oh my God, it's gone." Then the EMF went silent.  Normal readings of 0-5 resumed in an instant.</p>
+
+</div>
+<br>
+<br>
+<br>
+<br>
+ 
+<p>&copy; 2026 West Paranormal Adventures. All rights reserved.</p>
+<!-- Original source snippet sourced from www.google.com --> 
+
+</style>
+</body>
+</head>
+</html>
