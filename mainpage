@@ -1,7 +1,13 @@
 <!DOCTYPE html>
 
 <html>
-
+echo "# projectclass" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M mainpage
+git remote add origin https://github.com/jowest1220/projectclass.git
+git push -u origin main
 
 <title>West Paranormal</title>
 <body>
